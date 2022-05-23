@@ -4,7 +4,7 @@ import { ComingsoonComponent } from './comingsoon/comingsoon.component';
 
 const routes: Routes = [
   {
-    path:"",
+    path:"comingsoon",
     component: ComingsoonComponent
   }
 ];
